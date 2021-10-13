@@ -4,7 +4,7 @@ This repository collects general notes, descriptions, and tips for all the proje
 
 > _Everyone is welcome to contribute_
 
-<img src="bit.jpg" alt="Bit Logo" width="400" height="400" />
+<img src="bit.jpg" alt="Bit Logo" width="200" height="200" />
 
 ## How to send your notes?
 
