@@ -1,12 +1,12 @@
-# BIT Scholarship Projects Notes 
+# BIT Scholarship Projects Notes
 
-This repository collects general notes, descriptions, and tips for all the projects of the **Cloud**, **Product**, and **Data Science** track. 
+This repository collects general notes, descriptions, and tips for all the projects of the **Cloud**, **Product**, and **Data Science** track.
 
 > _Everyone is welcome to contribute_
 
-![BIT logo](/bit.jpg)
+<img src="bit.jpg" alt="Bit Logo" width="200" height="400" />
 
-## How to send your notes? 
+## How to send your notes?
 
 You will only need to have [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) installed on your machine.
 
@@ -23,7 +23,7 @@ git clone https://github.com/{YOUR GITHUB USERNAME}/BIT_Scholarship_Project_Note
 cd BIT_Scholarship_Project_Notes
 
 #4. Make your desired changes using any editor
-code . 
+code .
 
 #5. Add and Commit your changes
 git commit -m 'I added this and this. That note was modified because of something.'
@@ -31,10 +31,11 @@ git commit -m 'I added this and this. That note was modified because of somethin
 #6. Push the repository to your forked repo on GitHub
 git push
 
-#7. Open a merge request on 
+#7. Open a merge request on
 https://github.com/carneiroDotDev/BIT_Scholarship_Project_Notes
 
 ```
 
 ## Contributing
+
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
