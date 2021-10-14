@@ -50,7 +50,7 @@ https://github.com/carneiroDotDev/BIT_Scholarship_Project_Notes
 
 ### Cloud Track
 
-- :white_check_mark: Project 1 - Deploy website on AWS
+- :white_check_mark: Project 1 - Deploy Static Website on AWS
 - :black_square_button: Project 2 - Deploy a high-availability web app using CloudFormation
 - :black_square_button: Project 3 -
 - :black_square_button: Project 4 -
