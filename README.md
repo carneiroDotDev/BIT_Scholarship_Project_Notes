@@ -10,6 +10,14 @@ This repository collects general notes, descriptions, and tips for all the proje
 
 ## How to send your notes?
 
+There are two ways you can collaborate to this repo:
+
+### 1. You can ask for Collaborator permissions and modify the files directly
+
+Communicate via Slack or open an Issue here in GitHub. It would be a pleasure to add you as a collaborator.
+
+### 2. You can fork this repo and submit a pull request
+
 You will only need to have [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) installed on your machine.
 
 [Fork this repository](https://github.com/carneiroDotDev/BIT_Scholarship_Project_Notes/fork)
@@ -38,6 +46,12 @@ https://github.com/carneiroDotDev/BIT_Scholarship_Project_Notes
 
 ```
 
-## Contributing
+## Repository completion
 
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+### Cloud Track
+
+- :white_check_mark: Project 1 - Deploy website on AWS
+- :black_square_button: Project 2 -
+- :black_square_button: Project 3 -
+- :black_square_button: Project 4 -
+- :black_square_button: project 5 -
