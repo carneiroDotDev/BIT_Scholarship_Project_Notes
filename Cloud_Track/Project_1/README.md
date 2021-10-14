@@ -7,7 +7,7 @@ The whole project has two major intentions to implement:
 - Hosting a static website on S3 and
 - Accessing the cached website pages using CloudFront content delivery network (CDN) service. Recall that CloudFront offers low latency and high transfer speeds during website rendering.
 
-##Part 1 - Create S3 Bucket
+## Part 1 - Create S3 Bucket
 The page on udacity describe how to proceed step by step, but one more step may be necessary: attach a public policy to the bucket.
 
 ```python
