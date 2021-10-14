@@ -52,9 +52,9 @@ https://github.com/carneiroDotDev/BIT_Scholarship_Project_Notes
 
 - :white_check_mark: Project 1 - Deploy Static Website on AWS
 - :black_square_button: Project 2 - Deploy a high-availability web app using CloudFormation
-- :black_square_button: Project 3 -
-- :black_square_button: Project 4 -
-- :black_square_button: project 5 -
+- :black_square_button: Project 3 - Give Your Application Auto-Deploy Superpowers
+- :black_square_button: Project 4 - Operationalize a Machine Learning Microservice API
+- :black_square_button: project 5 - Capstone
 
 ### Data Science Track
 

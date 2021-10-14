@@ -1,6 +1,6 @@
 # Project 1 - Deploy Static Website on AWS
 
-**TLDR:** the project is described step by step on Udacity.There are no much todo, its more about following all the steps described on the project page.
+**TLDR:** the project is described step by step on Udacity. There are no many todos, its more about following all the steps described on the project page.
 
 The whole project has two major intentions to implement:
 
