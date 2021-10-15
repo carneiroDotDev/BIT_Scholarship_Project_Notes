@@ -1,7 +1,6 @@
-# Cloud Track
+# Cloud DevOps Engineer Track
 
-The cloud track has five projects to be accomplished in order to reach
-graduation. The projects are:
+The cloud devops engineer track has five projects to be accomplished in order to reach graduation. The projects are:
 
 - :white_check_mark: Project 1 - Deploy Static Website on AWS
 - :black_square_button: Project 2 - Deploy a high-availability web app using CloudFormation
