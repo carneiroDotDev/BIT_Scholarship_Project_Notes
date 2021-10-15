@@ -48,7 +48,7 @@ https://github.com/carneiroDotDev/BIT_Scholarship_Project_Notes
 
 ## Repository completion
 
-### Cloud Track
+### Cloud DevOps Engineer Track
 
 - :white_check_mark: Project 1 - Deploy Static Website on AWS
 - :black_square_button: Project 2 - Deploy a high-availability web app using CloudFormation
@@ -62,7 +62,7 @@ https://github.com/carneiroDotDev/BIT_Scholarship_Project_Notes
 - :black_square_button: Project 2 -
 - :black_square_button: Project 3 -
 
-### Procudt Track
+### Product Manager Track
 
 - :black_square_button: Project 1 -
 - :black_square_button: Project 2 -
