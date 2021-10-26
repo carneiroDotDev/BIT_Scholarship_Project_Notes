@@ -58,9 +58,9 @@ https://github.com/carneiroDotDev/BIT_Scholarship_Project_Notes
 
 ### Data Science Track
 
-- :black_square_button: Project 1 -
-- :black_square_button: Project 2 -
-- :black_square_button: Project 3 -
+- ✔️: Project 1 - Sakila Movie Database
+- ✅: Project 2 - Explore US Bikeshare Data
+- ✅: Project 3 - Post a Project on Github
 
 ### Product Manager Track
 
