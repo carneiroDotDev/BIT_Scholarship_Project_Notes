@@ -2,7 +2,7 @@
 
 The product manager track has four projects to be accomplished in order to reach graduation. The projects are:
 
-- :black_square_button: Project 1 -
+- :white_check_mark: Project 1 - Pitch a Product Vision
 - :black_square_button: Project 2 -
 - :black_square_button: Project 3 -
 - :black_square_button: Project 4 -
